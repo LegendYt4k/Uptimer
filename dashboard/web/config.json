@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"discord_server": "https://discord.gg/example",
+    "CLIENT_ID": "yourbotsclientid",
+	"SECRET": "yourclientsecret",
+    "URL": "http://yourdomain.com",
+    "port": "8080"
+}

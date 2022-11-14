@@ -54,7 +54,7 @@ npm install
 - Wait for all the dependencies to be installed
 - Rename `.env.example` to `.env` and fill the values
 - edit `config.js`  & `settings.js`
-- Type `node index.js` to start the bot
+- Type `node index.js` to start the bot. | To start the dashboard and bot do `npm run dev`.
 
 If you need any additional help, make sure to join support server [here](https://discord.gg/p57Y2dvJzx)
 <br>
