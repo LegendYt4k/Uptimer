@@ -5,7 +5,7 @@
 - Slash commands are disabled by default
 - In the **settings.js** set **SLASH_GLOBLE = true**  This will ensure that all the commands are registered globally immediately
 
-{% hint style="warning" %}
+
 _**Global slash commands** can take upto 1 hour to be shown across all guilds_
 {% endhint %}
 
