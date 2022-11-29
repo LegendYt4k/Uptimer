@@ -1,4 +1,4 @@
-// If you need help you can dm me on discord -> Uo#1428 
+// If you need help you can dm me on discord -> Excriyin#8519
 const express = require('express');
 const bodyparser = require("body-parser");
 const session = require("express-session");
