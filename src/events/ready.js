@@ -7,7 +7,7 @@ module.exports = {
   async execute(client) {
     client.on("ready", () => {
       const activities = [
-        { name: `/monitor add | uptimer.exhost.xyz`, type: 0 } // LISTENING
+        { name: `/monitor add | uptime.exhost.xyz`, type: 0 } // LISTENING
       ];
       const status = [
         'online'
