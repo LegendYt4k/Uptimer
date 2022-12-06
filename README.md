@@ -7,7 +7,7 @@ Uptimer is a bot that will monitor your projects/links and keep them running up 
 
 You can also use our dashboard to add your links and monitor them too!  
 <p align="center">
- <a href="https://uptimer.lol">Uptimer Website</a>
+ <a href="https://uptime.exhost.xyz">Uptimer Website</a>
  
 <br>
  
