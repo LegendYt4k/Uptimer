@@ -6,5 +6,5 @@ module.exports = {
   },
   COMMANDS_LOGS: false,
   COMMANDS_ERROR_LOGS: false,
-  SLASH_GLOBLE: true, // true for all servers || false for one server 
+  SLASH_GLOBLE: false, // true for all servers || false for one server 
 }
